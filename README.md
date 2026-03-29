@@ -1,2 +1,2 @@
 # Resumegen
-this is my first repositoy
+this is my first Git repositoy
